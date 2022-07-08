@@ -1,4 +1,4 @@
-
+//Edited BY Akshay
 public class Pthread {
 
 	public static void main(String[] args) { // this is main thread 
